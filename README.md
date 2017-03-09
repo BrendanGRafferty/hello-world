@@ -1,2 +1,4 @@
 # hello-world
-Short description
+Hi Humans!
+
+I am trying to figure out GitHub.
